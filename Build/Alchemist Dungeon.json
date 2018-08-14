@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Ludum Dare 42",
+"dataUrl": "Alchemist Dungeon.data.unityweb",
+"asmCodeUrl": "Alchemist Dungeon.asm.code.unityweb",
+"asmMemoryUrl": "Alchemist Dungeon.asm.memory.unityweb",
+"asmFrameworkUrl": "Alchemist Dungeon.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
